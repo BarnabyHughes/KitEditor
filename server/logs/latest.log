@@ -1,0 +1,86 @@
+[18:07:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:07:40] [ServerMain/INFO]: Loaded 1174 recipes
+[18:07:40] [ServerMain/INFO]: Loaded 1271 advancements
+[18:07:40] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[18:07:40] [Server thread/INFO]: Loading properties
+[18:07:40] [Server thread/INFO]: This server is running Paper version git-Paper-446 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 6ad63fb)
+[18:07:41] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:07:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:07:41] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[18:07:41] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 4 worker threads, and gen parallelism of 4 threads
+[18:07:41] [Server thread/INFO]: Default game type: SURVIVAL
+[18:07:41] [Server thread/INFO]: Generating keypair
+[18:07:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:07:41] [Server thread/INFO]: Using default channel type
+[18:07:41] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[18:07:41] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[18:07:41] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.2.20+6667-f0f1e66
+[18:07:42] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@497a36d5]
+[18:07:42] [Server thread/INFO]: [ExampleProject] Loading server plugin ExampleProject v1.0.0
+[18:07:42] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.9+5934e49
+[18:07:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:07:42] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.20+6667-f0f1e66
+[18:07:42] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[18:07:43] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[18:07:43] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R3.PaperweightAdapter as the Bukkit adapter
+[18:07:44] [Server thread/INFO]: Preparing level "world"
+[18:07:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:07:47] [Server thread/INFO]: Time elapsed: 1703 ms
+[18:07:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:07:47] [Server thread/INFO]: Time elapsed: 67 ms
+[18:07:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:07:47] [Server thread/INFO]: Time elapsed: 38 ms
+[18:07:47] [Server thread/INFO]: [ExampleProject] Enabling ExampleProject v1.0.0
+[18:07:47] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.9+5934e49
+[18:07:47] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[18:07:47] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[18:07:47] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[18:07:47] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[18:07:47] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[18:07:47] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[18:07:47] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[18:07:47] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[18:07:47] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[18:07:47] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[18:07:47] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[18:07:47] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[18:07:47] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[18:07:47] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[18:07:47] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[18:07:47] [Server thread/INFO]: [WorldGuard] Loading region data...
+[18:07:49] [Server thread/INFO]: Running delayed init tasks
+[18:07:49] [Server thread/INFO]: Done (8.718s)! For help, type "help"
+[18:07:49] [Server thread/INFO]: Timings Reset
+[18:08:06] [User Authenticator #0/INFO]: UUID of player Zeyph is ef6de5a4-1bd8-4c5e-b6e4-2a0456e01bd2
+[18:08:07] [Server thread/INFO]: Zeyph joined the game
+[18:08:07] [Server thread/INFO]: Zeyph[/127.0.0.1:51753] logged in with entity id 335 at ([world]-6.822907653800148, 102.0, 7.52069946259716)
+[18:08:10] [Server thread/INFO]: Zeyph issued server command: /region
+[18:08:12] [Server thread/INFO]: Zeyph issued server command: /region get
+[18:08:13] [Server thread/INFO]: Zeyph issued server command: /region name
+[18:08:16] [Server thread/INFO]: Zeyph issued server command: /region info
+[18:08:35] [Server thread/INFO]: Zeyph issued server command: /kit ScreenRecording
+[18:08:43] [Server thread/INFO]: Zeyph issued server command: /region info
+[18:08:45] [Server thread/INFO]: Zeyph issued server command: /gamemode creative
+[18:08:45] [Server thread/INFO]: [Zeyph: Set own game mode to Creative Mode]
+[18:08:48] [Server thread/INFO]: Zeyph issued server command: /gamemode survival
+[18:08:48] [Server thread/INFO]: [Zeyph: Set own game mode to Survival Mode]
+[18:08:50] [Server thread/INFO]: ProtectedRegion{id='exampleregion', type='CUBOID'}
+[18:08:50] [Server thread/INFO]: Zeyph fell from a high place
+[18:10:07] [Server thread/INFO]: Zeyph issued server command: /gamemode creative
+[18:10:07] [Server thread/INFO]: [Zeyph: Set own game mode to Creative Mode]
+[18:10:12] [Server thread/INFO]: Zeyph issued server command: /region get
+[18:10:13] [Server thread/INFO]: Zeyph issued server command: /region select
+[18:10:16] [Server thread/INFO]: Zeyph issued server command: /gamemode survival
+[18:10:16] [Server thread/INFO]: [Zeyph: Set own game mode to Survival Mode]
+[18:10:18] [Server thread/INFO]: Zeyph fell from a high place
+[18:10:39] [Server thread/INFO]: Zeyph issued server command: /gamemode creative
+[18:10:39] [Server thread/INFO]: [Zeyph: Set own game mode to Creative Mode]
+[18:10:44] [Server thread/INFO]: Zeyph issued server command: /region select
+[18:10:46] [Server thread/INFO]: Zeyph issued server command: /region select
+[18:10:50] [Server thread/INFO]: Zeyph issued server command: /gamemode survival
+[18:10:50] [Server thread/INFO]: [Zeyph: Set own game mode to Survival Mode]
+[18:10:52] [Server thread/INFO]: Zeyph fell from a high place
+[18:13:24] [Server thread/INFO]: Zeyph lost connection: Disconnected
+[18:13:24] [Server thread/INFO]: Zeyph left the game
