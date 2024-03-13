@@ -1,0 +1,8 @@
+main: me.barnaby.kiteditor.KitEditor
+name: ExampleProject
+author: Barnaby
+api-version: 1.20
+version: 1.0.0
+commands:
+  kitadmin:
+  kit:
